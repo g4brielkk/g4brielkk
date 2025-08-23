@@ -3,8 +3,8 @@
   Olá! Eu sou o João, mas conhecido como jao!👋
   <br>
 
-  - 🔭 Estou trabalhando em Front-end e Desenvolvimento de Sofware.
-- 🌱 Estou aprendendo Linguagens de Engenharia de Software.
+  - 🔭 Estou trabalhando em Front-end e Desenvolvimento Python.
+- 🌱 Estou aprendendo Linguagens de Desenvolvimento Front-End e Python.
 - 📫 Como chegar até mim: Minhas redes sociais!
 <br><br>
 
